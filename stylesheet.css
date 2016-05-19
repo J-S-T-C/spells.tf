@@ -1,1 +1,18 @@
+/*Stylesheet for main page (index.html) homepage*/
 
+#logo {
+  text-align: center;
+}
+
+#subtitle {
+    text-align: center;
+}
+
+#pagebreak {
+  color: #1e4373
+}
+
+#hatpic {
+    display: block;
+    margin: 0 auto;
+}
